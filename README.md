@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manoelbarroso-python-finance/pairs-trading-vectorbt/blob/main/pairs_trading.ipynb)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/manoelbarroso-python-finance/pairs-trading-vectorbt/blob/main/pairs_trading.ipynb)
 
 ## 🎯 Objetivo
 Implementar e otimizar uma estratégia **Market-Neutral** (Arbitragem Estatística) na B3, utilizando validação econométrica rigorosa e backtesting vetorial em larga escala.
@@ -49,3 +50,4 @@ O estudo foi conduzido em 4 etapas principais (descritas no notebook):
 ---
 **Autor:** Manoel Barroso Marques
 [LinkedIn](https://www.linkedin.com/in/manoel-barroso-marques-433174216/)
+
